@@ -1,0 +1,10 @@
+
+autogluon
+sagemaker
+awscli 
+boto3
+PrettyTable
+bokeh
+numpy==1.16.1
+matplotlib
+sagemaker-experiments

@@ -1,17 +1,40 @@
-## My Project
+# Architecting For Machine Learning on Amazon SageMaker in Health Care and Life Science
+Welcome to the art and science of machine learning! During this 2-day accelerator course you will quickly learn about the theory and application of machine learning for HCLS applications, with a strong focus on the AWS cloud and Amazon SageMaker. All of our projects are coming straight from the Health Care and Life Science domain space, so if you're familiar with the needs of analyzing medical imaging data, patient cost spending, dermatology, and even genomic analysis, you'll feel right at home.  
 
-TODO: Fill this README out!
+This accelerator is designed for data scientists who are new to AWS, and architects and developers who are new to machine learning. You will spend two days performing data science tasks: training models, evaluating them, analyzing data, etc. After this two day period you will be better suited to continue building data science solutions on AWS, designing architectural requirements for these, or supporting teams who currently do this. 
 
-Be sure to:
+We will cover:
+- Statistical machine learning
+- Deep learning
+- Feature engineering
+- Deploying a model into production
+- Model evaluation and comparison
+- SageMaker deep dive: Studio, notebooks, training jobs, endpoints, model monitor, etc
 
-* Change the title in this README
-* Edit your repository description on GitHub
+This course is designed for Python developers primarily. But since it is group-based, you will still have a great time even if you don't wrangle Python for your day job. We recommend reviewing Python programming using the statistical package Pandas. We also recommend having a Cloud Practiioner AWS Certification, but it is not required. Lastly, we recommend the book listed below. It is an excellent read, and clearly demonstrates all important concepts. The syntax might be a bit outdated at this point, but the concepts are still spot on. 
+- https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/ 
+- https://aws.amazon.com/certification/certified-cloud-practitioner/ 
+- [Deep Learning with Python by Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 
-## Security
+## Agenda
+__Day One:__
+- Learn about ML on AWS
+- Go through a sample lab
+- Break into teams and focus on a new machine learning project
+__First Goal:__ Download your dataset to an S3 bucket, create a SageMaker Studio domain, and load your data into a Pandas dataframe. 
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+__Day Two:__ 
+- Learn about feature engineering on AWS
+- Finish your first set of engineered features
+- Train your first model
+- Learn about model evaluation on AWS
+- Tune your model model using SageMaker automatic model tuning 
+- Learn about putting your model into production on SageMaker
+__Deliverable:__ Demo your notebook to your colleagues!  
 
-## License
+## What you'll need
+- Your own laptop 
+- Github account to share code with your project partners
+- Kaggle account to download data sets
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+We will provide you an AWS account for this course. However, if you would like to bring your own dataset and use the time to build your own project, you're welcome to do that! We ask that you use your own AWS account in that case. 
