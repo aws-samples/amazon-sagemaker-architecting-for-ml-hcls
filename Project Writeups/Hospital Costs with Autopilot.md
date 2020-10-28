@@ -16,7 +16,7 @@ A direct link to download the dataset to local computer can be accessed at this 
 To make this easier for you, we've written a starter notebook that downloads the data for you and performs some basic manipulations.
 
 See the link to the starter notebook here:
-- https://github.com/EmilyWebber/architecting-for-ml-in-hcls/blob/main/Starter%20Notebooks/Cost%20Prediction/Cost%20Prediction%20with%20Autopilot.ipynb
+- https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml-hcls/blob/main/Starter%20Notebooks/Cost%20Prediction/Cost%20Prediction%20with%20Autopilot.ipynb
 
 ### Analyzing your data and performing feature engineering
 Once you've loaded the cleaned data into your pandas dataframe, spend a bit of time exploring the fields with generating some plots and histograms. We started with using `pandas.plotting.scatter_matrix` and looking at the claims field.

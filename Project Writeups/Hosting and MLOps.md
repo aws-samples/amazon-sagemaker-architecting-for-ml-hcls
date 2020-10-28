@@ -14,7 +14,7 @@ In this module you will:
 The good news is that your model is already built! You have a pretrained model artifact, defined in SKLearn. This model looks at tabular data and returns a predicted likelihood that the patient has breast cancer. You also have the exact training and inference code necessary to develop this model, written as a Python script. 
 
 Access these artifacts and package them up within the SageMaker SDK following the example here:
-- https://github.com/EmilyWebber/architecting-for-ml-in-hcls/blob/main/Starter%20Notebooks/MLOps%20and%20Hosting/Hosting%20Models%20on%20SageMaker.ipynb
+- https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml-hcls/blob/main/Starter%20Notebooks/MLOps%20and%20Hosting/Hosting%20Models%20on%20SageMaker.ipynb
 
 ## 3 & 4. Create and Endpoint and Enable Autoscaling
 Once you have the artifacts packaed within the SageMaker SDK, creating an endpoint should be as simple as calling `model.deploy()`. Follow the notebook for this.

@@ -13,7 +13,7 @@ In this project you'll leverage a subset of the NIH dataset, specifically a samp
 ## Accessing the Data and Preparing the Training Job
 To access the data and get started on your project, please navigate to the following link:
 
-- https://github.com/EmilyWebber/architecting-for-ml-in-hcls/blob/main/Starter%20Notebooks/Advanced%20Data%20Science%20-%20XRay%20Analysis/Computer%20Vision%20for%20XRay%20Analysis.ipynb
+- https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml-hcls/blob/main/Starter%20Notebooks/Advanced%20Data%20Science%20-%20XRay%20Analysis/Computer%20Vision%20for%20XRay%20Analysis.ipynb
 
 This will take you all the way to training an Object Detection algorithm using the built-in image. This job should take about 35 minutes to run, on the GPU's provided. Notice that your job is connected to SageMaker experiments, so you should be able to view the results in the Experiments tab.
 
